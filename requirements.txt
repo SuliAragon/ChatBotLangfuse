@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+faiss-cpu
+reportlab
+gradio
+python-dotenv
+langfuse
+pypdf

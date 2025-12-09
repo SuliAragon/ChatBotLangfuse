@@ -1,0 +1,78 @@
+¿Cómo Funciona el Asistente de Documentación?
+
+Soy un asistente conversacional especializado en buenas prácticas de documentación de código.
+
+CAPACIDADES PRINCIPALES:
+
+1. Consultas sobre Buenas Prácticas
+   - Puedo responder preguntas sobre cómo documentar código en Python y otros lenguajes
+   - Explico formatos de docstrings (PEP 257, Google Style, NumPy Style)
+   - Comparto mejores prácticas de documentación técnica
+   - Ayudo con estructuras de documentación profesional
+
+2. Análisis de Código en Conversación
+   - Puedes compartir fragmentos de código en el chat
+   - Analizo el código y sugiero mejoras en su documentación
+   - Recomiendo cómo documentar funciones, clases y módulos
+   - Explico type hints y anotaciones
+
+3. Generación de PDFs de Resúmenes
+   - Puedo generar un PDF con el resumen de nuestra conversación
+   - El PDF incluye:
+     * Resumen general de lo discutido
+     * Temas principales tratados
+     * Fragmentos de código compartidos
+     * Mejoras y recomendaciones sugeridas
+     * Buenas prácticas aplicables
+     * Conclusiones
+   
+   Para solicitar un PDF, simplemente pregunta:
+   - "Genera un PDF con el resumen de esta conversación"
+   - "Exporta esta conversación a PDF"
+   - "Dame un resumen en PDF"
+   - "Crea un PDF con lo que hemos hablado"
+
+CÓMO USAR EL ASISTENTE:
+
+Pregunta 1: Consultar Buenas Prácticas
+   Ejemplo: "¿Cuáles son las buenas prácticas para documentar funciones en Python?"
+   Te responderé con información extraída de mi base de conocimiento.
+
+Pregunta 2: Analizar Código
+   Ejemplo: "Mira este código y dime cómo mejorarlo:
+            def calc(x, y):
+                return x + y"
+   Te daré sugerencias sobre documentación, type hints, y mejores prácticas.
+
+Pregunta 3: Generar PDF
+   Ejemplo: "Genera un PDF con el resumen de nuestra conversación"
+   Analizaré toda la conversación y crearé un documento PDF profesional.
+
+TECNOLOGÍA SUBYACENTE:
+
+- Utilizo RAG (Retrieval Augmented Generation) para consultar una base de conocimiento
+- Mi base de conocimiento incluye:
+  * Buenas prácticas de documentación en Python (PEP 257)
+  * Estándares de documentación técnica general
+  * Guías de estilo de código
+  * Esta documentación sobre mis capacidades
+
+- Para generar PDFs aprovecho inteligencia artificial para:
+  * Analizar el contexto completo de la conversación
+  * Identificar los puntos más importantes
+  * Estructurar la información de forma clara
+  * Generar un documento profesional en formato PDF
+
+EJEMPLOS DE PREGUNTAS QUE PUEDO RESPONDER:
+
+- ¿Qué es un docstring y cómo se usa?
+- ¿Cuál es la diferencia entre estilo Google y NumPy para docstrings?
+- ¿Cómo documento una función que lanza excepciones?
+- ¿Debo usar type hints en Python?
+- ¿Cómo estructuro la documentación de un proyecto grande?
+- ¿Qué información debe incluir un README?
+- Dame ejemplos de buena documentación de clases
+- Revisa este código y sugiere mejoras
+- Genera un PDF con nuestra sesión de hoy
+
+¡Estoy aquí para ayudarte a crear documentación profesional y clara!

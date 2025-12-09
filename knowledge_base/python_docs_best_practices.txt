@@ -1,0 +1,31 @@
+Buenas Prácticas de Documentación en Python (PEP 257)
+
+1. Docstrings:
+   - Todos los módulos, funciones, clases y métodos públicos deben tener docstrings.
+   - Usar comillas triples (""").
+   - La primera línea debe ser un resumen conciso.
+   - Si hay más detalles, dejar una línea en blanco después del resumen.
+
+2. Estilo Google:
+   - Args: Descripción de los argumentos.
+   - Returns: Descripción del valor de retorno.
+   - Raises: Excepciones que pueden ser lanzadas.
+
+3. Ejemplo:
+   def funcion_ejemplo(param1, param2):
+       """Resumen de lo que hace la función.
+
+       Explicación más detallada si es necesaria.
+
+       Args:
+           param1 (int): El primer parámetro.
+           param2 (str): El segundo parámetro.
+
+       Returns:
+           bool: El valor de retorno.
+       """
+       return True
+
+4. Comentarios:
+   - Usar comentarios (#) para explicar el "por qué" de una lógica compleja, no el "qué" (el código ya dice el "qué").
+   - Mantener los comentarios actualizados.

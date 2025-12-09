@@ -1,0 +1,25 @@
+Buenas Prácticas Generales de Documentación Técnica
+
+1. Claridad y Concisión:
+   - Escribir para la audiencia objetivo (desarrolladores, usuarios finales).
+   - Usar lenguaje claro y directo. Evitar jerga innecesaria.
+
+2. Estructura:
+   - Título claro.
+   - Introducción/Resumen.
+   - Prerrequisitos.
+   - Instalación/Configuración.
+   - Uso/Ejemplos.
+   - API Reference (si aplica).
+
+3. Ejemplos de Código:
+   - Los ejemplos son cruciales. Deben ser funcionales y fáciles de copiar.
+   - Incluir inputs y outputs esperados.
+
+4. Mantenimiento:
+   - La documentación debe evolucionar con el código.
+   - Revisar periódicamente para evitar obsolescencia.
+
+5. Formato:
+   - Usar Markdown para formatear texto (negritas, listas, código).
+   - Usar diagramas para explicar flujos complejos.
